@@ -1,4 +1,4 @@
-# 14MBID-Mineria-de-datos-de-los-casos-de-Criminalidad-en-Espana
+# 14MBID-Minería-de-datos-de-los-casos-de-Criminalidad-en-España
 
 En este repositorio se recoge tanto el código como los datos utilizados para la realización de trabajo de fin de máster Minería de datos de los casos de Criminalidad en España.
 
